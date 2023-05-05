@@ -1,4 +1,3 @@
-import os
 import csv
 from shapely import wkt
 from shapely.geometry import MultiPolygon, Polygon
